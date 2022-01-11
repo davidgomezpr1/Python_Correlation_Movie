@@ -3,7 +3,7 @@
 
 ## Business Request
 
-As a cinephile, I wanted to look at how different  of the movie business correlate to the gross earnings.
+As a cinephile, I wanted to look at how different of the movie business correlate to the gross earnings.
 
 I built this analysis to test the following hypotheses:
 
