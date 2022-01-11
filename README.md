@@ -7,8 +7,8 @@ As a cinephile, I wanted to look at how different  of the movie business correla
 
 I built this analysis to test the following hypotheses:
 
-- The gross earnings of a movie will be strongly correlated to its budget.
-- The gross revenue of a movie will be strongly correlated to the the fame/size of the company that produced it.
+- The `gross` earnings of a movie will be strongly correlated to its `budget`.
+- The `gross` revenue of a movie will be strongly correlated to the the fame/size of the `company` that produced it.
 
 
 ## Overview
@@ -21,6 +21,6 @@ I built this analysis to test the following hypotheses:
 
 ## Conclusions
 
-- A strong positive correlation was observed between the gross revenue and the budget of the films.This was determined by a correlation coefficient (r) equal to 0.74.
-- The film production company and gross revenue have a correlation coefficient of 0.15. This indicates a low correlation, which proves that the hypothesis was incorrect.
-- It was concluded that votes and budget have the strongest correlation to gross revenue (0.61 and 0.74, respectively).
+- A strong positive correlation was observed between the `gross` revenue and the `budget` of the films.This was determined by a correlation coefficient (r) equal to 0.74.
+- The film production `company` and `gross` revenue have a correlation coefficient of 0.15. This indicates a low correlation, which proves that the hypothesis was incorrect.
+- It was concluded that `votes` and `budget` have the strongest correlation to `gross` revenue (0.61 and 0.74, respectively).
