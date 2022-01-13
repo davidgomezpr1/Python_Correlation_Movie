@@ -3,7 +3,7 @@
 
 ## Business Request
 
-As a data analyst working for a film production company, internal stakeholders wanted me to dig into data for the past few decades of the film business to help them address their hypotheses. Bringing clarity to these, would have a significant impact on their company goals for the coming year.
+As a data analyst working for a film production company, internal stakeholders wanted me to dig into data for the past few decades of the film business to help them address their hypotheses. Bringing clarity to these, will have a significant impact on their company goals for the coming year.
 
 The following hypotheses were provided for me to test:
 
