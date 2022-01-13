@@ -3,9 +3,9 @@
 
 ## Business Request
 
-As a cinephile, I wanted to look at how different of the movie business correlate to the gross earnings.
+As a data analyst working for a film production company, internal stakeholders wanted me to dig into data for the past few decades of the film business to help them address their hypotheses. Bringing clarity to these, would have a significant impact on their company goals for the coming year.
 
-I built this analysis to test the following hypotheses:
+The following hypotheses were provided for me to test:
 
 - The `gross` earnings of a movie will be strongly correlated to its `budget`.
 - The `gross` revenue of a movie will be strongly correlated to the the fame/size of the `company` that produced it.
