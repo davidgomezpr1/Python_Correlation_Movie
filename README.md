@@ -7,8 +7,8 @@ As a data analyst working for a film production company, internal stakeholders w
 
 The following hypotheses were provided for me to test:
 
-- The `gross` earnings of a movie will be strongly correlated to its `budget`.
-- The `gross` revenue of a movie will be strongly correlated to the the fame/size of the `company` that produced it.
+- The `gross` earnings of a movie is strongly correlated to its `budget`.
+- The `gross` revenue of a movie is strongly correlated to the the fame/size of the `company` that produced it.
 
 
 ## Overview
