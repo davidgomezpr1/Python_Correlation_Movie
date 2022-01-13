@@ -21,6 +21,6 @@ The following hypotheses were provided for me to test:
 
 ## Conclusions
 
-- A strong positive correlation was observed between the `gross` revenue and the `budget` of the films.This was determined by a correlation coefficient (r) equal to 0.74.
+- A strong positive correlation was observed between the `gross` revenue and the `budget` of the films, confirming the first hypothesis. This was determined by a correlation coefficient (r) equal to 0.74.
 - The film production `company` and `gross` revenue have a correlation coefficient of 0.15. This indicates a low correlation, which proves that the hypothesis was incorrect.
 - It was concluded that `votes` and `budget` have the strongest correlation to `gross` revenue (0.61 and 0.74, respectively).
