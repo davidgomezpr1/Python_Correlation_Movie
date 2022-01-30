@@ -1,4 +1,4 @@
-# [Project 6 : Python Correlation Analysis of Movie Data](https://github.com/davidgomezpr1/Python_Correlation_Movie)
+# [Python Correlation Analysis of Movie Data](https://github.com/davidgomezpr1/Python_Correlation_Movie)
 ![](https://images.unsplash.com/photo-1542204165-65bf26472b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
 
 ## Business Request
